@@ -3,8 +3,9 @@
 `lat` contains Latin inflectional paradigms.
 
 ## Statistics
-- **Lemmas: ** 13219 nouns, 1500 proper nouns, 950 verbs, 2404 adjectives, and 12146 participles.
-- **Inflections: ** 977659 inflectional forms
+
+- **Lemmas:** 13219 nouns, 1500 proper nouns, 950 verbs, 2404 adjectives, and 12146 participles.
+- **Inflections:** 977659 inflectional forms
 
 
 ## Source
