@@ -7,6 +7,12 @@
 - **Lemmas:** 13219 nouns, 1500 proper nouns, 950 verbs, 2404 adjectives, and 12146 participles.
 - **Inflections:** 977659 inflectional forms
 
+## Contributors
+
+- Kyle Gorman (validation)
+- Arya McCarthy (conversion)
+- Ryan Cotterell (conversion)
+- Khuyagbaatar Batsuren (conversion)
 
 ## Source
 
