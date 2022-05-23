@@ -1,7 +1,7 @@
 # Latin (lat)
 
-`lat` contains Latin inflectional paradigms.
-`lat.segmentations` contains morpheme segmentations of Latin inflectional paradigms.
+- `lat` contains Latin inflectional paradigms.
+- `lat.segmentations` contains morpheme segmentations of Latin inflectional paradigms.
 
 ## Statistics
 
